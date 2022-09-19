@@ -67,7 +67,7 @@ slides 1-5:
 
 ## Some reviews
 
-- "Lattice-based Key Sharing Schemes: A Survey" (https://eprint.iacr.org/2020/1276)
+- "Lattice-based Key Sharing Schemes: A Survey" (https://eprint.iacr.org/2020/1276.pdf)
 
 - "Post-Quantum Lattice-Based Cryptography Implementations: A Survey" (http://sandip.ece.ufl.edu/publications/csur19.pdf)
 
