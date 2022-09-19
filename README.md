@@ -93,4 +93,5 @@ Post-Quantum Cryptography" (https://kannwischer.eu/thesis/phd-thesis-print-versi
 
 - "Fast Fourier Transform: Algorithms and Applications" (https://link.springer.com/content/pdf/10.1007/978-1-4020-6629-0.pdf)
 
+- "Faster Integer Multiplication" (https://www.math.tamu.edu/~rojas/furerfastmult.pdf)
 
