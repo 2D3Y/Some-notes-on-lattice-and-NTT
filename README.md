@@ -1,7 +1,4 @@
 
-[TOC]
-
-
 # Some notes on lattice-based cryptography
 
 Some notes on lattice-based cryptography
