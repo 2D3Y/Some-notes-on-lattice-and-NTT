@@ -74,7 +74,7 @@ slides 1-5:
 
 - "Post-Quantum Lattice-Based Cryptography Implementations: A Survey" (http://sandip.ece.ufl.edu/publications/csur19.pdf)
 
-- "Post-Quantum Cryptography_Computational-Hardness Assumptions and Beyond" (https://eprint.iacr.org/2021/571.pdf)
+- "Post-Quantum Cryptography: Computational-Hardness Assumptions and Beyond" (https://eprint.iacr.org/2021/571.pdf)
 
 
 
